@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+#roll-btn{
+    font-size: large;
+    text-decoration: dotted;
+    padding: 20px;
+    color: chartreuse;
+    background-color: blue;
+}
+#para{
+    font-size: 30px;
+    background-color: bisque;
+    padding: 20px;
+    background: transparent;
+}
+#image{
+    background-image: url(./image/1694425415874_F5qa4I3aIAA4yZG.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+#result{
+font-size: larger;
+background-color: whitesmoke;
+}
